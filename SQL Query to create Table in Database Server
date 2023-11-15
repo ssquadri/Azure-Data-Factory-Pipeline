@@ -1,0 +1,12 @@
+CREATE TABLE EmployeeDetails
+(
+[First Name] varchar(50),
+[Last Name] varchar(50),
+Email varchar(50),
+Phone varchar(50),
+Gender varchar(50),
+Department varchar(50),
+[Job Title] varchar(50),
+[Year Of Experience] varchar(50),
+Salary varchar(50),
+);
