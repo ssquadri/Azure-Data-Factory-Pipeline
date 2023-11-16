@@ -15,7 +15,7 @@ You can Further then Connect Power-Bi or other Visualization tool to get insight
 
 Here is a Step by Step process-
 
-Step1- First you need to have a subscription in Azure to start (you can get one by signing up free account and you are given $100 credit every month)
+Step1- First you need to have a subscription in Azure to start (you can get one by signing up free account)
 
 Step2-Create Storage account & select Hierarchy namespace during creation, Then Create a container Blob with an empty folder
 
