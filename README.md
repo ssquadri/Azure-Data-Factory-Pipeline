@@ -1,5 +1,5 @@
 # Azure-Data-Factory-Pipeline
-I had created an Azure Data Factory which downloads a .CSV file into Azure Blob Data lake Gen2 and then loads it in SQL Database when triggered in ADF.
+I had created a Project of Azure Data Factory in which  we can downloads a .CSV file into Azure Blob Data lake Gen2 and then load it in SQL Database when triggered in the data pipeline
 
 here is more detailed Description
 I'm excited to share a project that I recently built using Azure Data Factory (ADF) to streamline the process of downloading CSV files, storing them in Azure Data Lake Storage, and loading them into a SQL Server database for easy querying.
