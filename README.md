@@ -13,6 +13,17 @@ Next, using Azure Data Factory's copy tool, the CSV file is loaded into the SQL 
 
 You can Further then Connect Power-Bi or other Visualization tool to get insights
 
+
+
+
+
+![ADF POC.png](https://github.com/ssquadri/Azure-Data-Factory-Pipeline/blob/85b748d12316bf618b7f8b8c78b42a5fe18a83c5/ADF%20POC.png)
+
+
+
+
+
+
 Here is a Step by Step process-
 
 Step1- First you need to have a subscription in Azure to start (you can get one by signing up free account)
@@ -33,6 +44,25 @@ Step8- Second Copy will be from Blob storage to Azure SQL database table
 
 Step9- Run validation & debug & then finally trigger
 
+
+
+
+
+![ADF POC 1.png](https://github.com/ssquadri/Azure-Data-Factory-Pipeline/blob/85b748d12316bf618b7f8b8c78b42a5fe18a83c5/ADF%20POC%201.png)
+
+
+
+
+
+
+
+
+
+
 Step10- Run (Select * Table name) as SQL query and see if you got the output if Yes then you have successfully deployed & run the Pipeline
 
-Overall, I'm thrilled with the power and flexibility of Azure Data Factory and the ease with which it can be used to create robust data integration and processing pipelines.
+
+
+![ADF POC 2.png](https://github.com/ssquadri/Azure-Data-Factory-Pipeline/blob/85b748d12316bf618b7f8b8c78b42a5fe18a83c5/ADF%20POC%202.png)
+
+
